@@ -107,7 +107,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: #000000b4;
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
@@ -165,7 +165,7 @@ h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 15px;
-  color: #0b2341;
+  color: #fff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -266,7 +266,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #0b2341;
+  color: #fff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -314,7 +314,7 @@ h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: #0000004f;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -323,7 +323,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #0b2341;
+  color: #fff;
 }
 
 .navbar-mobile a:hover,
